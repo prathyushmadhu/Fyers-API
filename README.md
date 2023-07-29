@@ -2,7 +2,7 @@
 **Fyers API** provide integration with our in-house trading platform with which you can build your own cutomized trading applications. The API helps to place multiple orders (10  limit per day). This documentation is inspired from the original documentation of **FYERS-API**.
 
 ## 🔗 Links
-[![Fyers APIs](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://api-docs.fyers.in/)https://api-docs.fyers.in/)
+[![Fyers API]()](https://api-docs.fyers.in/)
 
 ## Authorisation.py
 This file extracts the authorisation key `auth_key` that is essential for getting an access key `access_token`.
